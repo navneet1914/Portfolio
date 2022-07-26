@@ -279,7 +279,7 @@ padding: 13px 30px;
 border-radius: 30px;
 transition: .4s;
  }
-.button-two{
+.button-two:hover{
 background-color: transparent;
 border: 2px solid #11ff00;
 cursor: pointer;
