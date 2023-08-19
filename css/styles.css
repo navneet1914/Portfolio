@@ -27,7 +27,7 @@ nav{
  cursor: pointer;
 }
 span{
-color: #11ff00;
+color: #6a00ff;
 }
 nav ul li{
  list-style-type: none;
@@ -42,7 +42,7 @@ font-weight: bold;
 text-transform: capitalize;
 }
 nav ul li a:hover{
-color:#11ff00;
+color:#6a00ff;
 border : 15px solid #101010;
 transition: .4s;
 }
@@ -76,7 +76,7 @@ position: relative;
 display: inline-block;
 width: 100%;
 padding: 14px 130px 14px 15px;
-border: 2px solid #11ff00;
+border: 2px solid #6a00ff;
 outline: none;
 border-radius: 30px;
 }
@@ -87,7 +87,7 @@ outline: none;
 border: none;
 padding: 10px 30px;
 border-radius: 30px;
-background-color: #11ff00;
+background-color: #6a00ff;
 font-weight: bold;
 color: black;
 box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
@@ -135,7 +135,7 @@ font-size: 18px;
 margin-bottom: 45px;
 }
 button{
-background-color: #11ff00;
+background-color: #6a00ff;
 color: whitesmoke;
 text-decoration: none;
 border: 2px solid transparent;
@@ -146,7 +146,7 @@ transition: .4s;
 }
 button:hover{
 background-color: transparent;
-border: 2px solid #11ff00;
+border: 2px solid #6a00ff;
 cursor: pointer;
 }
 .service{
@@ -180,7 +180,7 @@ text-align: center;
 }
 .card:hover{
 background-color: transparent;
-border: 2px solid #11ff00;
+border: 2px solid #6a00ff;
 cursor: pointer;
 }
 .card1{
@@ -196,7 +196,7 @@ text-align: center;
 }
 .card1:hover{
 background-color: transparent;
-border: 2px solid #11ff00;
+border: 2px solid #6a00ff;
 cursor: pointer;
 }
 .card i{
@@ -204,14 +204,14 @@ font-size: 50px;
 display: block;
 text-align: center;
 margin: 25px 0px;
-color: #11ff00;
+color: #6a00ff;
 }
 .card1 i{
 font-size: 50px;
 display: block;
 text-align: center;
 margin: 25px 0px;
-color: #11ff00;
+color: #6a00ff;
 }
 h5{
 color: white;
@@ -225,7 +225,7 @@ line-height: 27px;
 margin-bottom: 25px;
 }
 .card .button{
-background-color: #11ff00;
+background-color: #6a00ff;
 color: whitesmoke;
 text-decoration: none;
 border: 2px solid transparent;
@@ -236,7 +236,7 @@ transition: .4s;
 }
 .card .button:hover{
 background-color: transparent;
-border: 2px solid #11ff00;
+border: 2px solid #6a00ff;
 cursor: pointer;
 }
 .skills{
@@ -260,7 +260,7 @@ font-weight: bold;
 margin-bottom: 25px;
 }
 .Contact-Me .button-two{
-background-color: #11ff00;
+background-color: #6a00ff;
 color: whitesmoke;
 text-decoration: none;
 border: 2px solid transparent;
@@ -270,7 +270,7 @@ border-radius: 30px;
 transition: .4s;
 }
  .button-two{
- background-color: #11ff00;
+ background-color: #6a00ff;
 color: whitesmoke;
 text-decoration: none;
 border: 2px solid transparent;
@@ -279,18 +279,18 @@ padding: 13px 30px;
 border-radius: 30px;
 transition: .4s;
  }
-.button-two:hover{
-background-color: transparent;
-border: 2px solid #11ff00;
+ .button-two:hover{
+ background-color: transparent;
+border: 2px solid #6a00ff;
 cursor: pointer;
-}
+ }
 .Contact-Me .button-two:hover{
 background-color: transparent;
-border: 2px solid #11ff00;
+border: 2px solid #6a00ff;
 cursor: pointer;
 }
 .Resume{
-background-color: #11ff00;
+background-color: #6a00ff;
 color: whitesmoke;
 text-decoration: none;
 border: 2px solid transparent;
@@ -301,12 +301,12 @@ transition: .4s;
 }
 .Resume:hover{
 background-color: transparent;
-border: 2px solid #11ff00;
+border: 2px solid #6a00ff;
 cursor: pointer;
 }
 .backtotop{
 
-background-color: #11ff00;
+background-color: #6a00ff;
 color: whitesmoke;
 text-decoration: none;
 border: 2px solid transparent;
@@ -317,7 +317,7 @@ transition: .4s;
 }
 .backtotop:hover{
 background-color: transparent;
-border: 2px solid #11ff00;
+border: 2px solid #6a00ff;
 cursor: pointer;
 }
 
