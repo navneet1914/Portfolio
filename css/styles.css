@@ -203,17 +203,20 @@ button:hover {
   min-height: 400px;
 }
 
-.card {height: 365px;
-width: 100%;
-max-width: 335px;
-padding: 20px 35px;
-background: #191919;
-border-radius: 20px;
-margin: 15px;
-position: relative;
-overflow: hidden;
-text-align: center;
+.card {
+  height: 365px;
+  width: 100%;
+  max-width: 335px;
+  padding: 20px 35px;
+  background: #191919;
+  border-radius: 20px;
+  margin: 15px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+
 }
+
 .card1 {
   height: 365px;
   width: 100%;
@@ -409,48 +412,73 @@ h5 {
 
   .newslatter form input:last-child {
     margin-left: 0;
-    
+
   }
 }
+
 @media (max-width: 768px) {
-  .about h2{
+  .about h2 {
     font-size: 25px;
   }
-  .about h5{
+
+  .about h5 {
     font-size: 20px;
   }
-  .about p{
+
+  .about p {
     font-size: 17px;
   }
 }
+
 @media (max-width: 768px) {
-  .Contact-Me p{
+  .Contact-Me p {
     font-size: 20px;
     align-self: center;
   }
 }
-@media (max-width: 768px) {
-  .skills h2{
-    font-size: 75px;
-    align-self:center;
-  }
-  .box h5{
-    font-size: 10px;
-  }
-  .box p{
-    font-size: 7px;
-    
-  }
-}
-@media (max-width: 768px) {
-.pra p{
-opacity: 0;
-}
-}
-@media (max-width: 768px) {
- .card, .card1{
-   height: 200px;
-    width: 150%;
- }
- }
 
+@media (max-width: 768px) {
+  .skills h2 {
+    font-size: 75px;
+    align-self: center;
+  }
+
+  .box h5 {
+    font-size: 14px;
+  }
+
+  .box p {
+    font-size: 7px;
+
+  }
+}
+
+@media (max-width: 768px) {
+  .pra p {
+    opacity: 0;
+  }
+}
+
+@media (max-width: 768px) {
+
+  .card{
+    height: 200px;
+    width: 100%;
+    padding: 20px 10px;
+    background: #191919;
+    border-radius: 20px;
+    justify-content: center;
+    max-width: 500px;
+    text-align: center;
+  }
+  .card1 {
+    height: 200px;
+    width: 100%;
+    padding: 20px 10px;
+    background: #000000;
+    border-radius: 20px;
+    justify-content: center;
+    max-width: 500px;
+    text-align: center;
+  }
+}
