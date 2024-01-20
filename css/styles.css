@@ -29,7 +29,7 @@ nav {
 }
 
 span {
-  color: #6a00ff;
+  color: #974eff;
 }
 
 nav ul {
@@ -76,7 +76,7 @@ h3 {
 }
 
 h4 {
-  color: #fcfc;
+  color: #ffffff;
   font-size: 25px;
   margin-bottom: 20px;
 }
@@ -203,13 +203,23 @@ button:hover {
   min-height: 400px;
 }
 
-.card,
+.card {height: 365px;
+width: 100%;
+max-width: 335px;
+padding: 20px 35px;
+background: #191919;
+border-radius: 20px;
+margin: 15px;
+position: relative;
+overflow: hidden;
+text-align: center;
+}
 .card1 {
   height: 365px;
   width: 100%;
   max-width: 335px;
   padding: 20px 35px;
-  background: #191919;
+  background: #000000;
   border-radius: 20px;
   margin: 15px;
   position: relative;
@@ -415,7 +425,7 @@ h5 {
 }
 @media (max-width: 768px) {
   .Contact-Me p{
-    font-size: 18px;
+    font-size: 20px;
     align-self: center;
   }
 }
@@ -432,3 +442,15 @@ h5 {
     
   }
 }
+@media (max-width: 768px) {
+.pra p{
+opacity: 0;
+}
+}
+@media (max-width: 768px) {
+ .card, .card1{
+   height: 200px;
+    width: 100%;
+ }
+ }
+
